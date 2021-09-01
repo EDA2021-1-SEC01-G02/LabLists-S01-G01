@@ -1,6 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 
-Nicolas Perez Teran - 202116903 - n.perezt2@uniandes.edu.co
+Nicolas Perez Teran - n.perezt2@uniandes.edu.co - 202116903 
+
 Juan Pablo Rodríguez Briceño - jp.rodriguezb20@uniandes.edu.co - 202022764
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
